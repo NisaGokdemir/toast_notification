@@ -21,7 +21,7 @@ The *Toast Notification* is a lightweight web component that provides users with
 <img src="./img/toast.gif" alt="" width="500" height="350">
 
 ## Live Demo 🌐
-Live Demo : 
+Live Demo : [Toast Notification Demo](https://toast-notification-snowy.vercel.app/)
 
 ## Installation
 No special installation is required for this project. Simply download the project files and open the `index.html` file in a web browser.
